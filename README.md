@@ -56,8 +56,8 @@ RDFやその関連技術に関する基礎から、SPARQLによるクエリの�
 - [PDF](https://dx.doi.org/10.6084/m9.figshare.3993804)
 - [講演動画(統合TV)](http://doi.org/10.7875/togotv.2016.141)
 * 「SPARQL によるアプリケーション開発」 講師：片山 俊明（ライフサイエンス統合データベースセンター）
-- [PDF] (http://tinyurl.com/20161007-rdf-app)
-- [講演動画(統合TV)](http://doi.org/10.7875/togotv.2016.142)
+-- [PDF](http://tinyurl.com/20161007-rdf-app)
+-- [講演動画(統合TV)](http://doi.org/10.7875/togotv.2016.142)
 
 ## 参考文献
 
