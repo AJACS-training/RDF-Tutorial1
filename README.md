@@ -11,9 +11,9 @@ RDFやその関連技術に関する基礎から、SPARQLによるクエリの�
 ### 日時と会場
 
 * 開催期間：2016年10月7日(金)
-- 9:30 受付
-- 10:00〜12:00 「Linked Open Data と RDF」「NBDC, DBCLS における RDF への取り組み」
-- 13:30〜16:00 「SPARQL入門」
+    - 9:30 受付
+    - 10:00〜12:00 「Linked Open Data と RDF」「NBDC, DBCLS における RDF への取り組み」
+    - 13:30〜16:00 「SPARQL入門」
 * 開催場所：東京都千代田区五番町7 K's 五番町 科学技術振興機構 (JST) 東京本部別館2階会議室A-2
 * アクセス：https://www.jst.go.jp/koutsu_map2.html
 
@@ -56,8 +56,8 @@ RDFやその関連技術に関する基礎から、SPARQLによるクエリの�
 - [PDF](https://dx.doi.org/10.6084/m9.figshare.3993804)
 - [講演動画(統合TV)](http://doi.org/10.7875/togotv.2016.141)
 * 「SPARQL によるアプリケーション開発」 講師：片山 俊明（ライフサイエンス統合データベースセンター）
--- [PDF](http://tinyurl.com/20161007-rdf-app)
--- [講演動画(統合TV)](http://doi.org/10.7875/togotv.2016.142)
+- [PDF](http://tinyurl.com/20161007-rdf-app)
+- [講演動画(統合TV)](http://doi.org/10.7875/togotv.2016.142)
 
 ## 参考文献
 
