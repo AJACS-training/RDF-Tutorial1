@@ -31,33 +31,33 @@ RDFやその関連技術に関する基礎から、SPARQLによるクエリの�
 ### Linked Open Data と RDF
 
 * 「LOD の基礎知識」 講師：加藤 文彦（国立情報学研究所） 
-- [PDF](https://speakerdeck.com/fumi/introduction-to-lod)
-- [講演動画(統合TV)]([http://doi.org/10.7875/togotv.2016.136 )
+    - [PDF](https://speakerdeck.com/fumi/introduction-to-lod)
+    - [講演動画(統合TV)]([http://doi.org/10.7875/togotv.2016.136 )
 * 「SPARQL を支える技術」 講師：川島 秀一（ライフサイエンス統合データベースセンター）
-- [PDF](http://wiki.lifesciencedb.jp/mw/images/1/1a/RDF-lecture-01_20161007.pdf)
-- [講演動画(統合TV)](http://togotv.dbcls.jp/20161009.html)
+    - [PDF](http://wiki.lifesciencedb.jp/mw/images/1/1a/RDF-lecture-01_20161007.pdf)
+    - [講演動画(統合TV)](http://togotv.dbcls.jp/20161009.html)
 
 ### NBDC, DBCLS における RDF への取り組み
 
 * 「RDF によるデータ統合」 講師：川島 秀一（ライフサイエンス統合データベースセンター）
-- [PDF](http://wiki.lifesciencedb.jp/mw/images/e/eb/RDF-lecture-01-skwsm2_20161007.pdf)
-- [講演動画(統合TV)](http://doi.org/10.7875/togotv.2016.138)
+    - [PDF](http://wiki.lifesciencedb.jp/mw/images/e/eb/RDF-lecture-01-skwsm2_20161007.pdf)
+    - [講演動画(統合TV)](http://doi.org/10.7875/togotv.2016.138)
 * 「RDF 開発のためのサービス」 講師：片山 俊明（ライフサイエンス統合データベースセンター）
-- [PDF](http://tinyurl.com/20161007-rdf-serv)
-- [講演動画(統合TV)](http://doi.org/10.7875/togotv.2016.139)
+    - [PDF](http://tinyurl.com/20161007-rdf-serv)
+    - [講演動画(統合TV)](http://doi.org/10.7875/togotv.2016.139)
 
 
 ### SPARQL入門
 
 * 「SPARQL の基本」 講師：岡別府 陽子（フリーランスエンジニア）
-- [PDF](https://dx.doi.org/10.6084/m9.figshare.4003299.v1)
-- [講演動画(統合TV)](http://doi.org/10.7875/togotv.2016.140)
+    - [PDF](https://dx.doi.org/10.6084/m9.figshare.4003299.v1)
+    - [講演動画(統合TV)](http://doi.org/10.7875/togotv.2016.140)
 * 「SPARQL の言語仕様とクエリ」 講師：山本 泰智（ライフサイエンス統合データベースセンター）
-- [PDF](https://dx.doi.org/10.6084/m9.figshare.3993804)
-- [講演動画(統合TV)](http://doi.org/10.7875/togotv.2016.141)
+    - [PDF](https://dx.doi.org/10.6084/m9.figshare.3993804)
+    - [講演動画(統合TV)](http://doi.org/10.7875/togotv.2016.141)
 * 「SPARQL によるアプリケーション開発」 講師：片山 俊明（ライフサイエンス統合データベースセンター）
-- [PDF](http://tinyurl.com/20161007-rdf-app)
-- [講演動画(統合TV)](http://doi.org/10.7875/togotv.2016.142)
+    - [PDF](http://tinyurl.com/20161007-rdf-app)
+    - [講演動画(統合TV)](http://doi.org/10.7875/togotv.2016.142)
 
 ## 参考文献
 
