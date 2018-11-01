@@ -30,32 +30,39 @@ RDFやその関連技術に関する基礎から、SPARQLによるクエリの�
 
 ### Linked Open Data と RDF
 
-* 「LOD の基礎知識」 講師：加藤 文彦（国立情報学研究所） 
+* 「LOD の基礎知識」 
+    - 講師：加藤 文彦（国立情報学研究所） 
     - [スライド](https://speakerdeck.com/fumi/introduction-to-lod)
     - [講演動画(統合TV)](https://togotv.dbcls.jp/20161008.html)
-* 「SPARQL を支える技術」 講師：川島 秀一（ライフサイエンス統合データベースセンター）
+* 「SPARQL を支える技術」
+    - 講師：川島 秀一（ライフサイエンス統合データベースセンター）
     - [スライド](http://wiki.lifesciencedb.jp/mw/images/1/1a/RDF-lecture-01_20161007.pdf)
     - [講演動画(統合TV)](https://togotv.dbcls.jp/20161009.html)
 
 ### NBDC, DBCLS における RDF への取り組み
 
-* 「RDF によるデータ統合」 講師：川島 秀一（ライフサイエンス統合データベースセンター）
+* 「RDF によるデータ統合」 
+    - 講師：川島 秀一（ライフサイエンス統合データベースセンター）
     - [スライド](http://wiki.lifesciencedb.jp/mw/images/e/eb/RDF-lecture-01-skwsm2_20161007.pdf)
     - [講演動画(統合TV)](https://togotv.dbcls.jp/20161010.html)
-* 「RDF 開発のためのサービス」 講師：片山 俊明（ライフサイエンス統合データベースセンター）
+* 「RDF 開発のためのサービス」
+    - 講師：片山 俊明（ライフサイエンス統合データベースセンター）
     - [スライド](http://tinyurl.com/20161007-rdf-serv)
     - [講演動画(統合TV)](https://togotv.dbcls.jp/20161011.html)
 
 
 ### SPARQL入門
 
-* 「SPARQL の基本」 講師：岡別府 陽子（フリーランスエンジニア）
+* 「SPARQL の基本」 
+    - 講師：岡別府 陽子（フリーランスエンジニア）
     - [スライド](https://dx.doi.org/10.6084/m9.figshare.4003299.v1)
     - [講演動画(統合TV)](https://togotv.dbcls.jp/20161012.html)
-* 「SPARQL の言語仕様とクエリ」 講師：山本 泰智（ライフサイエンス統合データベースセンター）
+* 「SPARQL の言語仕様とクエリ」
+    - 講師：山本 泰智（ライフサイエンス統合データベースセンター）
     - [スライド](https://dx.doi.org/10.6084/m9.figshare.3993804)
     - [講演動画(統合TV)](https://togotv.dbcls.jp/20161013.html)
-* 「SPARQL によるアプリケーション開発」 講師：片山 俊明（ライフサイエンス統合データベースセンター）
+* 「SPARQL によるアプリケーション開発」
+    - 講師：片山 俊明（ライフサイエンス統合データベースセンター）
     - [スライド](http://tinyurl.com/20161007-rdf-app)
     - [講演動画(統合TV)](https://togotv.dbcls.jp/20161014.html)
 
