@@ -68,5 +68,6 @@ RDFやその関連技術に関する基礎から、SPARQLによるクエリの�
 
 ## 参考文献
 
+* [オリジナルサイト](http://wiki.lifesciencedb.jp/mw/RDF-Tutorial1)
 * [オープンデータ時代の標準 Web API SPARQL](http://sparqlbook.jp/)
 * [Togetter: 第1回RDF講習会](http://togetter.com/li/1034066 )
